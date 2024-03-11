@@ -1,0 +1,21 @@
+h1 {
+    color: blue;
+    font-family: verdana;
+    font-size: 200%;
+}
+h2 {
+    color: black;
+    font-family: verdana;
+    font-size: 100%;
+    font-weight: bold;
+}
+p {
+    color: black;
+    font-family: verdana;
+    font-size: 100%;
+}
+
+header, footer {
+    background-color: #0066ff;
+    padding-top: 50px;
+}
